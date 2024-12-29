@@ -1,0 +1,3 @@
+Hello world! This is a test file.
+It will be used to count words and character frequencies.
+Python is fun!
